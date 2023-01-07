@@ -1,5 +1,6 @@
 ---
 description: Here you get a fast introduction to the main parts of the system
+layout: editorial
 ---
 
 # Introduction
