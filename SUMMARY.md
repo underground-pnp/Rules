@@ -16,12 +16,12 @@
 
 ## Crafting
 
-* [Materials](crafting/materials.md)
+* [Materials](crafting/page-1.md)
 * [Receipts](crafting/receipts.md)
 
 ## Weapons
 
-* [Base](weapons/base.md)
+* [Base](weapons/page-2.md)
 * [Modifications](weapons/modifications.md)
 
 ## DM Guide
