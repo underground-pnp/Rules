@@ -12,16 +12,16 @@
 
 ## Character Creation
 
-* [Mindset (Classes)](character-creation/mindset.md)
+* [Mindset](character-creation/mindset.md)
 
 ## Crafting
 
-* [Materials](crafting/page-1.md)
+* [Materials](crafting/materials.md)
 * [Receipts](crafting/receipts.md)
 
 ## Weapons
 
-* [Base](weapons/page-2.md)
+* [Base](weapons/base.md)
 * [Modifications](weapons/modifications.md)
 
 ## DM Guide
