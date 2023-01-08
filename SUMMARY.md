@@ -12,7 +12,11 @@
 
 ## Character Creation
 
-* [Mindset](character-creation/mindset.md)
+* [Mindset](character-creation/mindset/README.md)
+  * [Artisan](character-creation/mindset/artisan.md)
+  * [Doctor](character-creation/mindset/doctor.md)
+  * [Soldier](character-creation/mindset/soldier.md)
+  * [Create your own](character-creation/mindset/create-your-own.md)
 
 ## Crafting
 
