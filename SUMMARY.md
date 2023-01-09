@@ -5,14 +5,15 @@
 
 ## General
 
-* [Fighting](general/fighting.md)
+* [Fighting](general/fighting/README.md)
+  * [House rule: Stress Situations](general/fighting/house-rule-stress-situations.md)
 * [Movement](general/movement.md)
 * [The Surface](general/the-surface.md)
 * [The Underground](general/the-underground.md)
 
 ## Character Creation
 
-* [Mindset](character-creation/mindset/README.md)
+* [Mindset](character-creation/mindset.md)
   * [Artisan](character-creation/mindset/artisan.md)
   * [Doctor](character-creation/mindset/doctor.md)
   * [Soldier](character-creation/mindset/soldier.md)
@@ -25,7 +26,10 @@
 
 ## Weapons
 
-* [Base](weapons/base.md)
+* [Primary and Secondary Weapons](weapons/primary-and-secondary-weapons.md)
+* [Attributes](weapons/attributes.md)
+* [Base Weapons](weapons/base-weapons/README.md)
+  * [Knife](weapons/base-weapons/knife.md)
 * [Modifications](weapons/modifications.md)
 
 ## DM Guide
