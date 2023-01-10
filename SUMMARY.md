@@ -19,6 +19,7 @@
   * [Doctor](character-creation/mindset/doctor.md)
   * [Soldier](character-creation/mindset/soldier.md)
   * [Create your own](character-creation/mindset/create-your-own.md)
+* [Background](character-creation/background.md)
 
 ## Crafting
 
