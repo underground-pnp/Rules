@@ -13,6 +13,7 @@
 
 ## Character Creation
 
+* [How to create your character](character-creation/how-to-create-your-character.md)
 * [Mindset](character-creation/mindset.md)
   * [Artisan](character-creation/mindset/artisan.md)
   * [Doctor](character-creation/mindset/doctor.md)
